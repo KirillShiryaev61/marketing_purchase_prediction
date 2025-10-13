@@ -1,6 +1,6 @@
 # Проект: "Будут ли они покупать?" — Бинарная классификация для маркетинга
 
-[🔗 Просмотр Jupyter Notebook через nbviewer](https://nbviewer.org/github/KirillShiryaev61/marketing_purchase_prediction/blob/master/marketing_purchase_prediction.ipynb)
+[🔗 Просмотр Jupyter Notebook](https://kirillshiryaev61.github.io/marketing_purchase_prediction/marketing_purchase_prediction.html)
 
 **Описание проекта:**
 
