@@ -1,6 +1,6 @@
 # Игнорирование системных папок
 catboost_info/
-.DS_Store/
+.DS_Store
 
 # Игнорирование папки с данными
 filtered_data/
