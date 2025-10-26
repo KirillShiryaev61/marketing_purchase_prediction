@@ -1,5 +1,13 @@
 # Игнорирование системных папок
 catboost_info/
+.DS_Store/
 
 # Игнорирование папки с данными
 filtered_data/
+
+# Игнорирование notebook checkpoints
+.ipynb_checkpoints/
+
+# Игнорирование временных файлов Python
+__pycache__/
+*.pyc
